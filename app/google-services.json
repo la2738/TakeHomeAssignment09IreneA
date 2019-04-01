@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "483417576987",
+    "firebase_url": "https://takehomeassignment09irenea.firebaseio.com",
+    "project_id": "takehomeassignment09irenea",
+    "storage_bucket": "takehomeassignment09irenea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483417576987:android:0a923c75dc079e68",
+        "android_client_info": {
+          "package_name": "com.example.android.takehomeassignment09_irenea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483417576987-b313521fmdff6vegr4pnq5vvv2h83c0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.takehomeassignment09_irenea",
+            "certificate_hash": "d842804052ee799f5bfc9e0bb98e21ced326b872"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKaORHwZ1PgJeQ33kJ3wZgfRsuiXNdcdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483417576987-7n7gora793ltqhbb9plt2c48s15hnrei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
